@@ -1,5 +1,4 @@
 # BudgetBuddy - Project Bases Learning From Batam State Polytechnic
-![Green Modern Money Vector Design  Cashback Service   Business And Finance Icon Logo Template-veed-remove-background](https://github.com/Ydla-chan/BudgetBuddy/assets/74952206/e2c3afa1-327e-4143-a45a-5006bfd982d4)
 Budget buddy is a web-based platform that aims to help users who have high mobility to make it easier for them to manage and monitor their finances automatically within one month.
 The purpose of this budgetbuddy application is that overseas students can easily make financial arrangements such as recording expenditure transactions, making limits per certain categories or per month, so that students can find out their financial flow and be wiser in managing finances.
 
