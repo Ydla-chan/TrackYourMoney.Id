@@ -3,12 +3,12 @@ Budget buddy is a web-based platform that aims to help users who have high mobil
 The purpose of this budgetbuddy application is that overseas students can easily make financial arrangements such as recording expenditure transactions, making limits per certain categories or per month, so that students can find out their financial flow and be wiser in managing finances.
 
 Member of Tim Develop : 
-  1. Rahel Simanjuntak 4342301001 - Front End Ui 
-  2. Mira Handayani 4342301002  - Document Analytis
-  3. Aldy Jhonatan Hutasoit 4342301003 - Implementation
-  4. Tyas Wening Ayu Sawitri 4342301004 - Implementation
-  5. Akbar Hafiz 4342301005 - Tester 
-  6. Yocelyn Theona Setiawan 4342301030 - Front End Ui
+  1. Rahel Simanjuntak Front End Ui 
+  2. Mira Handayani Document Analytis
+  3. Aldy Jhonatan Hutasoit Implementation
+  4. Tyas Wening Ayu Sawitri  Implementation
+  5. Akbar Hafiz  Tester 
+  6. Yocelyn Theona Setiawan Front End Ui
 
 
 Functional Requiment For This Project : 
