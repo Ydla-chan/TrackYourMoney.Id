@@ -1,4 +1,4 @@
-# BudgetBuddy - Project Bases Learning From Batam State Polytechnic
+# Track Your Money 
 Budget buddy is a web-based platform that aims to help users who have high mobility to make it easier for them to manage and monitor their finances automatically within one month.
 The purpose of this budgetbuddy application is that overseas students can easily make financial arrangements such as recording expenditure transactions, making limits per certain categories or per month, so that students can find out their financial flow and be wiser in managing finances.
 
