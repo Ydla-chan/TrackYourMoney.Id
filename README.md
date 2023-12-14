@@ -32,7 +32,7 @@ Step of Cloning the system
 5. clik right on your mouse,clik "open  gitbash here "
 3. run this command  
     Command : "git clone https://gitlab.polibatam.ac.id/Aldyjhonatan.31/trpl_a-pagi_budget-buddy/ "
-                                            OR 
+                                            or 
               " git clone https://github.com/Ydla-chan/TrackYourMoney.Id/ "
 
 4. after that open xampp control panel , turn on apache service and sql service
